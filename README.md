@@ -1,1 +1,1 @@
-# E-coomerce web application
+# E-commerce web application
